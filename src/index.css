@@ -1,0 +1,22 @@
+#root {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+}
+
+.card-body-stars {
+  padding: 0;
+  list-style-type: none;
+}
+
+.box {
+  padding: 3px;
+  margin: 2%;
+  border: 2px solid grey;
+  border-radius: 3px;
+}
+
+.star {
+  display: inline-flex;
+}
